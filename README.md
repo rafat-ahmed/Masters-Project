@@ -1,2 +1,3 @@
 # Masters-Project
-This repository holds much of the data analysis work that I conducted for my masters project. The project aimed to develop an understanding behind the variations in atmospheric CO2 concentrations and corresponding isotopic source signatures in central London.
+This repository holds much of the data analysis work that I conducted for my masters project. The project aimed to develop an understanding behind the variations in atmospheric CO2 concentrations and corresponding isotopic source signatures in central London. To do this, I built a linear regression model to predict sources of pollution from the data collected by a weather station located at my south-west London based campus. The on-campus weather station became operational in the summer of 2018 and has been collecting air data flowing into London at a 1-minute resolution ever since, this meant working with a dataset consisting of more than a million data points. 
+
